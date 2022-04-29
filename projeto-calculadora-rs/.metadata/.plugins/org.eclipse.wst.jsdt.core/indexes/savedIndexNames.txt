@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\workspace\tw-jaxws-jaxrs\projeto-calculadora-rs\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3181807708.index
+605938941.index
+1186130324.index
+2288917711.index
+2048471092.index
+227433477.index

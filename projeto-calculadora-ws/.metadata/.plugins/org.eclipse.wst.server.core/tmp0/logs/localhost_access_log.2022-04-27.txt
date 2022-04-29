@@ -1,0 +1,8 @@
+127.0.0.1 - - [27/Apr/2022:18:57:23 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [27/Apr/2022:19:25:29 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [27/Apr/2022:19:26:02 -0300] "GET /tw-calculadora-ws/services/CalculadoraWSPort HTTP/1.1" 500 283
+127.0.0.1 - - [27/Apr/2022:19:26:02 -0300] "GET /tw-calculadora-ws/services/CalculadoraWSPort?wsdl HTTP/1.1" 200 2121
+127.0.0.1 - - [27/Apr/2022:19:26:03 -0300] "POST /tw-calculadora-ws/services/CalculadoraWSPort HTTP/1.1" 200 229
+0:0:0:0:0:0:0:1 - - [27/Apr/2022:19:28:23 -0300] "GET /tw-calculadora-ws/services HTTP/1.1" 200 1013
+0:0:0:0:0:0:0:1 - - [27/Apr/2022:19:28:23 -0300] "GET /tw-calculadora-ws/services/?stylesheet=1 HTTP/1.1" 200 367
+0:0:0:0:0:0:0:1 - - [27/Apr/2022:19:28:24 -0300] "GET /favicon.ico HTTP/1.1" 404 774
